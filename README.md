@@ -8,8 +8,8 @@ Der Gesundheitstimer sorgt dafür, dass du genug trinkst und regelmäßig aufste
 * [Hardware](https://github.com/Jugendhackt/Gesundheitstimer-hardware)
 
 ## Libraries
-https://github.com/olkal/HX711_ADC 
-https://github.com/noah1510/esp32-weather-station
+* https://github.com/olkal/HX711_ADC 
+* https://github.com/noah1510/esp32-weather-station
 
 ## Team: Gesundheitstimer
 
